@@ -25,7 +25,7 @@ go.work
 go.work.sum
 
 # env file
-.env
+# .env track is good
 
 # Editor/IDE
 # .idea/
